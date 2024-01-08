@@ -1,0 +1,6 @@
+[submodule "klog/themes/hugo-bearblog"]
+	path = klog/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "klog/public"]
+	path = klog/public
+	url = git@github.com:ksewen/ksewen.github.io.git
